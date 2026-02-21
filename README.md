@@ -22,7 +22,6 @@ It ensures:
 - structural review procedures  
 
 ## What Does NOT Belong Here
-- Canonical doctrine (belongs in `portussophia-canon`)  
 - Public interpretive content or WebKernel scaffolding  
 - Narrative or private materials  
 - Runtime code or execution logic (belongs in `portussophia-kernel`)  
@@ -33,4 +32,4 @@ All artifacts must follow:
 - PS-STD-060 (Governance Documentation Standard)
 - PS-STD-100 (Metadata Integrity Standard)
 
-PortusSophia™ — Structure First, Always.
+PortusSophia™ — Governance First, Structured Growth
