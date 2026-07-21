@@ -1,0 +1,12 @@
+title: "PortusSophia™ Governance"
+description: "Policy and procedural authority within the declared PortusSophia™ architecture."
+lang: en
+markdown: kramdown
+permalink: pretty
+portussophia:
+  asset_origin: "https://assets.portussophia.com"
+  asset_version: "1"
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
